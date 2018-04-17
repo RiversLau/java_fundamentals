@@ -12,6 +12,7 @@
     <modules>
         <module>proxy</module>
         <module>collection</module>
+        <module>string</module>
     </modules>
 
     <properties>
