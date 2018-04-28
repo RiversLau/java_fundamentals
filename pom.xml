@@ -14,6 +14,7 @@
         <module>collection</module>
         <module>string</module>
         <module>constructor</module>
+        <module>jvm</module>
     </modules>
 
     <properties>
